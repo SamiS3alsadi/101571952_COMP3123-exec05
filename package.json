@@ -1,0 +1,16 @@
+{
+  "name": "101571952_comp3123-exec05",
+  "version": "1.0.0",
+  "description": "COMP 3123 Lab Exercise 5 - Express middleware and modular routing",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon ./server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "dateformat": "^3.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
